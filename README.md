@@ -1,4 +1,4 @@
-# 🗣️ Foro "ForoHub" 🗣️
+# 🗣️ "ForoHub" 🗣️
 
 🤝 Un foro es un lugar donde todos los participantes de una plataforma pueden colocar sus preguntas sobre determinados asuntos. Se creó una API REST usando Spring. Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
  - Crear un nuevo tópico
