@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/config" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/controller" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dto" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/exception" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/model" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/repository" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/security" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/service" isTestSource="true" />
+    </content>
+  </component>
+</module>
