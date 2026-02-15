@@ -7,7 +7,7 @@
  - Actualizar un tópico
  - Eliminar un tópico
 
-💡 Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) pero ahora usando un framework que va a facilitar mucho nuestro trabajo. Al final se reunió una API REST con las siguientes funcionalidades
+💡 Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) pero ahora usando un framework que va a facilitar mucho el trabajo. Al final se reunió una API REST con las siguientes funcionalidades:
 
 - API con rutas implementadas siguiendo las mejores prácticas del modelo REST
 - Validaciones realizadas según reglas de negocio
